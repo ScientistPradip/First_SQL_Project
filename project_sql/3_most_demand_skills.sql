@@ -24,6 +24,6 @@ GROUP BY
     skills_dim.skill_id
 ORDER BY 
     no_of_jobs DESC
-LIMIT 5
+LIMIT 5;
 
 
